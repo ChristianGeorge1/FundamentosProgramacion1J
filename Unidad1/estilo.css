@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poor Story', sans-serif;
+}
+p,h1{ /*Selector de elemento*/ 
+    color: blue;
+    width: 500px;
+    border: 1px solid black; 
+}
+#niveles{ /*Selector de identidad */
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 0 auto; 
+}
+.diferente{ /*Selector de clase */
+    color: red;
+    border: 2px dashed solid blue;   
+}
+li{
+    list-style: none;
+}
+#niveles:hover{
+    color: purple;
+    background: black;
+}
+
