@@ -10,5 +10,4 @@ function sumar(){
     var resultadoF = document.querySelector('#resultado');
 
     resultadoF.value=resultado;
-
 }
